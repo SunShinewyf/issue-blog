@@ -2,3 +2,7 @@
 不兼容，所以之后选择将自己的技术沉淀分享在这里。而且之前的内容都显得有点浅，所以希望以后的博客内容会更深一点。
 
 欢迎`star`和`watch`
+
+## 主要文章目录
+- [前端异步发展](https://github.com/SunShinewyf/issue-blog/issues/1)
+- [redux源码解读](https://github.com/SunShinewyf/issue-blog/issues/2)
