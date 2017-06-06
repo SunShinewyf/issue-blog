@@ -10,3 +10,4 @@
 - [redux源码解读](https://github.com/SunShinewyf/issue-blog/issues/2)
 
 ### 人文书籍读后感
+- [你的孤独，虽败犹荣](https://github.com/SunShinewyf/issue-blog/issues/3)  2015-10-02
