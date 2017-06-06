@@ -18,3 +18,6 @@
 - [灵魂有香气的女子](https://github.com/SunShinewyf/issue-blog/issues/8) 2016-10-21
 - [生死场](https://github.com/SunShinewyf/issue-blog/issues/9) 2016-10-22
 - [呼伦河传](https://github.com/SunShinewyf/issue-blog/issues/10) 2016-10-24
+- [三体之地球往事](https://github.com/SunShinewyf/issue-blog/issues/11) 2016-11-28
+- [三体之黑暗森林](https://github.com/SunShinewyf/issue-blog/issues/12) 2016-12-16
+- [三体之死神永生](https://github.com/SunShinewyf/issue-blog/issues/13) 2017-01-19
