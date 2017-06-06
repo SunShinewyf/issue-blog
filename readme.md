@@ -4,5 +4,9 @@
 欢迎`star`和`watch`
 
 ## 主要文章目录
+
+### 技术文章
 - [前端异步发展](https://github.com/SunShinewyf/issue-blog/issues/1)
 - [redux源码解读](https://github.com/SunShinewyf/issue-blog/issues/2)
+
+### 人文书籍读后感
