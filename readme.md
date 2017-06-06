@@ -12,7 +12,7 @@
 ### 人文书籍读后感
 - [偷影子的人](https://github.com/SunShinewyf/issue-blog/issues/6)  2015-04-20
 - [你的孤独，虽败犹荣](https://github.com/SunShinewyf/issue-blog/issues/3)  2015-10-02
-- [向前一步] (https://github.com/SunShinewyf/issue-blog/issues/4)  2015-10-15
+- [向前一步](https://github.com/SunShinewyf/issue-blog/issues/4)  2015-10-15
 - [活着](https://github.com/SunShinewyf/issue-blog/issues/5)   2015-11-10
 - [幸福了吗](https://github.com/SunShinewyf/issue-blog/issues/7) 2016-05-28
 - [灵魂有香气的女子](https://github.com/SunShinewyf/issue-blog/issues/8) 2016-10-21
