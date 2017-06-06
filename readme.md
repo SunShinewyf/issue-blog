@@ -11,5 +11,5 @@
 
 ### 人文书籍读后感
 - [你的孤独，虽败犹荣](https://github.com/SunShinewyf/issue-blog/issues/3)  2015-10-02
-- [向前一步] (https://github.com/SunShinewyf/issue-blog/issues/4)  2015-10-15
+- [向前一步](https://github.com/SunShinewyf/issue-blog/issues/4)  2015-10-15
 - [活着](https://github.com/SunShinewyf/issue-blog/issues/5)   2015-11-10
