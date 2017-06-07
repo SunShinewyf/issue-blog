@@ -21,3 +21,7 @@
 - [三体之地球往事](https://github.com/SunShinewyf/issue-blog/issues/11) 2016-11-28
 - [三体之黑暗森林](https://github.com/SunShinewyf/issue-blog/issues/12) 2016-12-16
 - [三体之死神永生](https://github.com/SunShinewyf/issue-blog/issues/13) 2017-01-19
+- [莫言自选集](https://github.com/SunShinewyf/issue-blog/issues/14) 2017-03-24
+- [何处是归程](https://github.com/SunShinewyf/issue-blog/issues/15) 2017-04-28
+- [放学后](https://github.com/SunShinewyf/issue-blog/issues/16) 2017-05-01
+- [解忧杂货店](https://github.com/SunShinewyf/issue-blog/issues/17) 2017-05-07
