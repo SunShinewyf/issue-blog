@@ -25,3 +25,4 @@
 - [何处是归程](https://github.com/SunShinewyf/issue-blog/issues/15) 2017-04-28
 - [放学后](https://github.com/SunShinewyf/issue-blog/issues/16) 2017-05-01
 - [解忧杂货店](https://github.com/SunShinewyf/issue-blog/issues/17) 2017-05-07
+- [白鹿原](https://github.com/SunShinewyf/issue-blog/issues/17) 2017-06-24
