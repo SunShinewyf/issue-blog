@@ -27,4 +27,5 @@
 - [放学后](https://github.com/SunShinewyf/issue-blog/issues/16) 2017-05-01
 - [解忧杂货店](https://github.com/SunShinewyf/issue-blog/issues/17) 2017-05-07
 - [白鹿原](https://github.com/SunShinewyf/issue-blog/issues/18) 2017-06-24
+- [摆渡人](https://github.com/SunShinewyf/issue-blog/issues/19) 2017-07-09
 
