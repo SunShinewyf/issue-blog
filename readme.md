@@ -10,6 +10,7 @@
 - [redux源码解读](https://github.com/SunShinewyf/issue-blog/issues/2)
 - [express中的路由和登录拦截方案实践](https://github.com/SunShinewyf/issue-blog/issues/19)
 - [express源码解读](https://github.com/SunShinewyf/issue-blog/issues/20)
+- [npm全局安装模块而提示找不到命令](https://github.com/SunShinewyf/issue-blog/issues/22)
 
 ### 人文书籍读后感
 - [偷影子的人](https://github.com/SunShinewyf/issue-blog/issues/6)  2015-04-20
