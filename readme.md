@@ -12,6 +12,7 @@
 - [express源码解读](https://github.com/SunShinewyf/issue-blog/issues/20)
 - [npm全局安装模块而提示找不到命令](https://github.com/SunShinewyf/issue-blog/issues/22)
 - [koa源码解读](https://github.com/SunShinewyf/issue-blog/issues/23)
+- [koa-router源码解读](https://github.com/SunShinewyf/issue-blog/issues/24)
 
 ### 人文书籍读后感
 - [偷影子的人](https://github.com/SunShinewyf/issue-blog/issues/6)  2015-04-20
