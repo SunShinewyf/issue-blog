@@ -32,3 +32,4 @@
 - [解忧杂货店](https://github.com/SunShinewyf/issue-blog/issues/17) 2017-05-07
 - [白鹿原](https://github.com/SunShinewyf/issue-blog/issues/18) 2017-06-24
 - [摆渡人](https://github.com/SunShinewyf/issue-blog/issues/21) 2017-07-09
+- [孤独六讲](https://github.com/SunShinewyf/issue-blog/issues/25) 2017-07-30
