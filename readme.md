@@ -33,3 +33,4 @@
 - [白鹿原](https://github.com/SunShinewyf/issue-blog/issues/18) 2017-06-24
 - [摆渡人](https://github.com/SunShinewyf/issue-blog/issues/21) 2017-07-09
 - [孤独六讲](https://github.com/SunShinewyf/issue-blog/issues/25) 2017-07-30
+- [月亮和六便士](https://github.com/SunShinewyf/issue-blog/issues/26) 2017-08-12
