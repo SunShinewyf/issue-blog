@@ -36,3 +36,4 @@
 - [孤独六讲](https://github.com/SunShinewyf/issue-blog/issues/25) 2017-07-30
 - [月亮和六便士](https://github.com/SunShinewyf/issue-blog/issues/26) 2017-08-12
 - [巨人的陨落 I](https://github.com/SunShinewyf/issue-blog/issues/28) 2017-08-27
+- [巨人的陨落 II](https://github.com/SunShinewyf/issue-blog/issues/30) 2017-09-03
