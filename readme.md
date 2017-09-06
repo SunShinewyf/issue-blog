@@ -7,6 +7,11 @@
 
 ### 技术文章
 - [前端异步发展](https://github.com/SunShinewyf/issue-blog/issues/1)
+- [webpack中的hash问题](https://github.com/SunShinewyf/webpack-demo/issues/2)
+- [webpack的源码解读](https://github.com/SunShinewyf/webpack-demo/issues/3)
+- [webpack的性能优化](https://github.com/SunShinewyf/webpack-demo/issues/5)
+- [webpack中的插件以及如何编写一个插件](https://github.com/SunShinewyf/webpack-demo/issues/4)
+- [webpack插件踩坑记](https://github.com/SunShinewyf/webpack-demo/issues/6)
 - [redux源码解读](https://github.com/SunShinewyf/issue-blog/issues/2)
 - [express中的路由和登录拦截方案实践](https://github.com/SunShinewyf/issue-blog/issues/19)
 - [express源码解读](https://github.com/SunShinewyf/issue-blog/issues/20)
@@ -14,5 +19,6 @@
 - [koa源码解读](https://github.com/SunShinewyf/issue-blog/issues/23)
 - [koa-router源码解读](https://github.com/SunShinewyf/issue-blog/issues/24)
 - [egret使用总结](https://github.com/SunShinewyf/issue-blog/issues/27)
+- [结合源码解密egg运行原理](https://github.com/SunShinewyf/issue-blog/issues/30)
 
 
