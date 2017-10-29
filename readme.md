@@ -20,5 +20,6 @@
 - [koa-router源码解读](https://github.com/SunShinewyf/issue-blog/issues/24)
 - [egret使用总结](https://github.com/SunShinewyf/issue-blog/issues/27)
 - [结合源码解密egg运行原理](https://github.com/SunShinewyf/issue-blog/issues/30)
+- [漫谈 egg-bin](https://github.com/SunShinewyf/issue-blog/issues/31)
 
 
