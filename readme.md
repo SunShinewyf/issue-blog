@@ -21,5 +21,8 @@
 - [egret使用总结](https://github.com/SunShinewyf/issue-blog/issues/27)
 - [结合源码解密egg运行原理](https://github.com/SunShinewyf/issue-blog/issues/30)
 - [漫谈 egg-bin](https://github.com/SunShinewyf/issue-blog/issues/31)
+- [chrome插件开发踩坑总结](https://github.com/SunShinewyf/issue-blog/issues/32)
+- [脚手架之egg-init](https://github.com/SunShinewyf/issue-blog/issues/33)
+
 
 
