@@ -24,6 +24,7 @@
 - [chrome插件开发踩坑总结](https://github.com/SunShinewyf/issue-blog/issues/32)
 - [脚手架之egg-init](https://github.com/SunShinewyf/issue-blog/issues/33)
 - [node中的Event模块(上）](https://github.com/SunShinewyf/issue-blog/issues/34)
+- [node中的Event模块(下)](https://github.com/SunShinewyf/issue-blog/issues/35)
 
 
 
