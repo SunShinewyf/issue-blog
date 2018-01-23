@@ -27,6 +27,7 @@
 - [node中的Event模块(下)](https://github.com/SunShinewyf/issue-blog/issues/35)
 - [node中的模块](https://github.com/SunShinewyf/issue-blog/issues/36)
 - [node中的process模块](https://github.com/SunShinewyf/issue-blog/issues/37)
+- [Promise总结](https://github.com/SunShinewyf/issue-blog/issues/38)
 
 
 
