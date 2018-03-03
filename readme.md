@@ -28,7 +28,7 @@
 - [node中的模块](https://github.com/SunShinewyf/issue-blog/issues/36)
 - [node中的process模块](https://github.com/SunShinewyf/issue-blog/issues/37)
 - [Promise总结](https://github.com/SunShinewyf/issue-blog/issues/38)
-- [dva学习总结](https://github.com/SunShinewyf/issue-blog/issues/39)
+- [dva学习总结](https://github.com/SunShinewyf/issue-blog/issues/40)
 
 
 
