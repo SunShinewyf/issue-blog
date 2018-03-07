@@ -29,6 +29,7 @@
 - [node中的process模块](https://github.com/SunShinewyf/issue-blog/issues/37)
 - [Promise总结](https://github.com/SunShinewyf/issue-blog/issues/38)
 - [dva学习总结](https://github.com/SunShinewyf/issue-blog/issues/40)
+- [redux-saga 初识](https://github.com/SunShinewyf/issue-blog/issues/41)
 
 
 
