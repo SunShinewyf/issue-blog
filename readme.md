@@ -30,6 +30,7 @@
 - [Promise总结](https://github.com/SunShinewyf/issue-blog/issues/38)
 - [dva学习总结](https://github.com/SunShinewyf/issue-blog/issues/40)
 - [redux-saga 初识](https://github.com/SunShinewyf/issue-blog/issues/41)
-
+- [React 更新组件的源码解读](https://github.com/SunShinewyf/issue-blog/issues/42)
+- [Immutable 操作在 React 中的实践](https://github.com/SunShinewyf/issue-blog/issues/43)
 
 
