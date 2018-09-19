@@ -34,5 +34,6 @@
 - [React 更新组件的源码解读](https://github.com/SunShinewyf/issue-blog/issues/42)
 - [Immutable 操作在 React 中的实践](https://github.com/SunShinewyf/issue-blog/issues/43)
 - [React 高阶组件浅析](https://github.com/SunShinewyf/issue-blog/issues/44)
-- [双向数据绑定的原理和实现](https://github.com/SunShinewyf/issue-blog/issues/45)
-- [react-router 源码解读](https://github.com/SunShinewyf/issue-blog/issues/46)
+- [React 简洁代码之道](https://github.com/SunShinewyf/issue-blog/issues/45)
+- [双向绑定的原理和实现](https://github.com/SunShinewyf/issue-blog/issues/46)
+- [react-router 源码解读](https://github.com/SunShinewyf/issue-blog/issues/47)
